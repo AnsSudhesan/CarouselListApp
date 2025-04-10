@@ -236,7 +236,7 @@ fun PagerIndicator(size: Int, currentPage: Int) {
     }
 }
 
-// ✅ Updated for ListDisplayItem
+
 @Composable
 fun StatisticsContent(items: List<ListDisplayItem>, pageIndex: Int) {
     val charFrequency = remember(items) {
