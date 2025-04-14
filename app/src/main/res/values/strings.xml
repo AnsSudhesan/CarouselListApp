@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CarouselListApp</string>
+    <string name="search_hint">Search</string>
+    <string name="search_icon_content_description">Search icon</string>
+    <string name="search_bar_content_description">Search bar</string>
 </resources>
